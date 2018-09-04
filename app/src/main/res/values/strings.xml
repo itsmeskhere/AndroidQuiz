@@ -1,0 +1,59 @@
+<resources>
+    <!-- Max Characters 30 -->
+    <string name="app_name">Android Quiz</string>
+
+    <string name="android_master">Android Master</string>
+
+    <!-- Max Characters 30 -->
+    <string name="welcome_to_android_quiz">Welcome to Android Quiz</string>
+
+    <string name="name">Name</string>
+    <string name="start_quiz">START QUIZ</string>
+
+    <!-- Max Characters 20 -->
+    <string name="lets_start">Let\'s Start</string>
+
+    <!-- Time format need not to be translated -->
+    <string name="zero_time">00:00:00:00</string>
+
+    <string name="question1_header">QUESTION 1</string>
+    <string name="question1">In which year Android Inc. was found?</string>
+    <string name="question1_option1">1999</string>
+    <string name="question1_option2">2001</string>
+    <string name="question1_option3">2003</string>
+    <string name="question1_option4">2005</string>
+    <string name="question2_header">QUESTION 2</string>
+    <string name="question2">What does AOSP stand for?</string>
+    <string name="question2_option1">Android Operating System Project</string>
+    <string name="question2_option2">Android Open Source Project</string>
+    <string name="question2_option3">Android Open Stack Programming</string>
+    <string name="question2_option4">Android Open Source Protocol</string>
+    <string name="question3_header">QUESTION 3</string>
+    <string name="question3">What year was the first Google I/O held?</string>
+    <string name="question3_option1">2001</string>
+    <string name="question3_option2">2003</string>
+    <string name="question3_option3">2005</string>
+    <string name="question3_option4">2007</string>
+    <string name="question4_header">QUESTION 4</string>
+    <string name="question4">What version of Android is codenamed \"Jelly Bean\"?</string>
+    <string name="question4_option1">4.1</string>
+    <string name="question4_option2">4.2</string>
+    <string name="question4_option3">4.3</string>
+    <string name="question4_option4">4.4</string>
+    <string name="question5_header">QUESTION 5</string>
+    <string name="question5">What does \"O\" represents in Android O?</string>
+    <string name="question5_answer">Answer (Only Version Name)</string>
+    <string name="next">NEXT</string>
+    <string name="submit">SUBMIT</string>
+    <string name="score">SCORE</string>
+    <string name="try_again">TRY AGAIN</string>
+    <string name="feedback">FEEDBACK</string>
+    <string name="enter_name">Please Enter Your Name</string>
+
+    <!-- Answer need not translated -->
+    <string name="oreo">Oreo</string>
+
+    <string name="score_toast">, Your Score is </string>
+    <string name="congratulation">Congratulation</string>
+    <string name="feedback_intent_message">Feedback for Android Quiz App</string>
+</resources>
